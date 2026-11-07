@@ -1,0 +1,20 @@
+[
+  {
+    "id": "e19b216d8b364be89dc9e2492ef08aca",
+    "date": "2026-11-07",
+    "type": "expense",
+    "amount": 25.5,
+    "category": "饮食",
+    "note": "午餐",
+    "created_at": "2026-11-07T06:30:00+00:00"
+  },
+  {
+    "id": "a2c4f7d1e3b84f9a8c0d1e2f3a4b5c6d",
+    "date": "2026-11-07",
+    "type": "income",
+    "amount": 8200.0,
+    "category": "工资",
+    "note": "11月工资",
+    "created_at": "2026-11-07T08:00:00+00:00"
+  }
+]

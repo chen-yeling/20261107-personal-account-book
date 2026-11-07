@@ -1,3 +1,2 @@
-# 运行依赖（按需取消注释）
-# matplotlib
-# pandas
+streamlit>=1.35,<2
+pandas>=2.0,<3
